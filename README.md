@@ -1,12 +1,10 @@
 Software engineer specializing in fullstack web development
 
-    🌱 I’m currently learning Javascript
+    🌱 I’m currently learning Javascript at Upright Academy
 
-    📫 Reach me at jeffery.a.pedersen@gmail.com
-
-    👨🏻‍💻 Linkedin https://www.linkedin.com/in/jeffery-pedersen-b60887236/
 [![Linkedin: JeffPedersen](https://img.shields.io/badge/-JeffPedersen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffery-pedersen-b60887236/)](https://www.linkedin.com/in/jeffery-pedersen-b60887236/)
 [![GitHub JeffPedersen](https://img.shields.io/github/followers/JeffPedersen?label=follow&style=social)](https://github.com/JeffPedersen)
+[![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](jeffery.a.pedersen@gmail.com)
 
 
 **languages and tools:**  
