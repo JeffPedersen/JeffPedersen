@@ -2,7 +2,7 @@
 
     🌱 I’m currently learning Javascript at Upright Academy
 
-<p>Find me on</p>
+<p>Reach out to me</p>
         <!-- Gmail -->
         <a href="mailto:jeffery.a.pedersen@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
