@@ -1,9 +1,21 @@
-Software engineer specializing in fullstack web development
+    Software engineer specializing in fullstack web development
 
     🌱 I’m currently learning Javascript at Upright Academy
 
-[![Linkedin: JeffPedersen](https://img.shields.io/badge/-JeffPedersen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffery-pedersen-b60887236/)](https://www.linkedin.com/in/jeffery-pedersen-b60887236/)
-[![GitHub JeffPedersen](https://img.shields.io/github/followers/JeffPedersen?label=follow&style=social)](https://github.com/JeffPedersen)
+<p>Find me on</p>
+        <!-- Gmail -->
+        <a href="mailto:jeffery.a.pedersen@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+            <!-- Linkedin -->
+            <a href="https://www.linkedin.com/in/jeffery-pedersen-b60887236/" target="_blank"><img alt="Linkedin"
+                    src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+            <!-- GitHub -->
+            <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+                    src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+
+
 
 
 **languages and tools:**  
