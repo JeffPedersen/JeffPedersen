@@ -1,6 +1,6 @@
     Software engineer specializing in fullstack web development
 
-    🌱 I’m currently learning Javascript at Upright Academy
+    🎓 Graduated Upright Academy Bootcamp July 23 
 
 <p>Reach out to me</p>
         <!-- Gmail -->
